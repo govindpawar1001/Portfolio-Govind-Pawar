@@ -53,9 +53,4 @@ The goal of this project is to create a strong online presence and demonstrate f
  https://portfolio-govind-pawar.vercel.app/
 
 
-- VS Code
-
----
-
-## 📂 Project Structure
 
